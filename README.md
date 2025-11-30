@@ -1,4 +1,4 @@
-# ⭐ **SMART AI FACE RECOGNITION DOOR LOCK SYSTEM**
+# ⭐ **IoT Smart Door Lock System**
 
 An advanced, AI-powered smart access system built using the ESP32-C6 and DFRobot HuskyLens.
 
@@ -6,8 +6,12 @@ An advanced, AI-powered smart access system built using the ESP32-C6 and DFRobot
 
 ## 📡 **Social & Community Links**
 
-```html
+🌐 **Official Links:**  
+
 <p align="center">
+  <a href="https://www.digikey.com/" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/DigiKey-BE1E2D?style=flat&logo=digikey&logoColor=white" alt="DigiKey"/>
+</a>
   <a href="https://youtube.com/@next.builder?si=CYdRbQAZveyQLm3W" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
@@ -23,31 +27,19 @@ An advanced, AI-powered smart access system built using the ESP32-C6 and DFRobot
   <a href="https://instagram.com/next_builder" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://community.dfrobot.com/user-13435.html" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DFRobot-FF6C00?style=flat&logo=dfrobot&logoColor=white" alt="DFRobot"/>
-  </a>
-  <a href="https://www.digikey.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DigiKey-C51A1E?style=flat&logo=digikey&logoColor=white" alt="DigiKey"/>
-  </a>
-  <a href="https://electronicswings.com/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/ElectronicsWings-1E90FF?style=flat&logo=googlechrome&logoColor=white" alt="ElectronicsWings"/>
-  </a>
 </p>
-```
-
----
 
 # 🔐 **Project Overview**
 
 Have you ever wanted a home security system that feels **smarter**, **faster**, and **more secure** than a traditional door lock?
 This project brings that idea to life — a **Smart AI-Powered Face Recognition Door Lock System** featuring:
 
-✨ Real-time face recognition using **DFRobot HuskyLens**
-✨ Instant door unlock on authorized faces
-✨ **Telegram smartphone notifications**
-✨ Secure access control using **ESP32-C6**
-✨ Offline, low-latency **edge AI** (no cloud needed)
-✨ Stylish custom-designed enclosure
+* ✨ Real-time face recognition using **DFRobot HuskyLens**
+* ✨ Instant door unlock on authorized faces
+* ✨ **Telegram smartphone notifications**
+* ✨ Secure access control using **ESP32-C6**
+* ✨ Offline, low-latency **edge AI** (no cloud needed)
+* ✨ Stylish custom-designed enclosure
 
 This is an advanced IoT + AI project built for **speed**, **security**, and **modern design**.
 
@@ -59,11 +51,11 @@ The workflow is smooth and fully automated:
 
 1. **HuskyLens continuously scans faces**
 2. If a known user is detected →
-   ✔ ESP32-C6 activates the solenoid lock
-   ✔ Telegram bot sends “Access Granted” notification
+   * ✔ ESP32-C6 activates the solenoid lock
+   * ✔ Telegram bot sends “Access Granted” notification
 3. Unknown face →
-   ✖ Door stays locked
-   ✖ Optional silent alert
+  * ✖ Door stays locked
+  * ✖ Optional silent alert
 
 All decisions are processed **locally** for maximum speed and privacy.
 
@@ -86,8 +78,7 @@ All decisions are processed **locally** for maximum speed and privacy.
 
 # 📦 **My Digi-Key Lists**
 
-Professional-grade components used:
-👉 **IoT Door Lock System – DigiKey List**
+Professional-grade components used: https://www.digikey.in/en/mylists/list/6HDLDBKVVK
 
 ---
 
@@ -104,12 +95,11 @@ You will receive messages like:
 # 🚪 **Final Result**
 
 Your smart door lock system will:
-
-✔ Recognize authorized faces
-✔ Unlock the door instantly
-✔ Send real-time alerts
-✔ Protect your home with AI
-✔ Look stylish and professional
+* ✔ Recognize authorized faces
+* ✔ Unlock the door instantly
+* ✔ Send real-time alerts
+* ✔ Protect your home with AI
+* ✔ Look stylish and professional
 
 ---
 
@@ -122,10 +112,12 @@ Special thanks to:
 * **DFRobot** — for their amazing HuskyLens AI sensor
 
 ---
+## 📜 License
 
-# 📄 **License**
-
-MIT License — Free to use, modify, or build upon.
+This project is open-source under the **MIT License**.  
+You are free to explore, modify, and share your own version of This Project!
 
 ---
+
+> 💬 *Share your build — tag me on social media! I’d love to see your version of this project at your workspace.*
 
