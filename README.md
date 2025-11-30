@@ -5,7 +5,6 @@
 <a href="https://www.digikey.com/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DigiKey-BE1E2D?style=flat&logo=digikey&logoColor=white" alt="DigiKey"/>
 </a>
-
 <p align="center">
   <a href="https://youtube.com/@next.builder?si=CYdRbQAZveyQLm3W" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
