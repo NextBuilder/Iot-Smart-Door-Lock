@@ -3,23 +3,23 @@
 # ⭐ Socials
 
 <p align="center">
-  <a href="https://www.instructables.com/member/Next%20Builder%20DIY/">
-    <img src="https://img.shields.io/badge/Instructables-FFA500?style=for-the-badge&logo=instructables&logoColor=white"/>
+  <a href="https://youtube.com/@next.builder?si=CYdRbQAZveyQLm3W" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-  <a href="https://hackster.io/NEXTBUILDER">
-    <img src="https://img.shields.io/badge/Hackster.io-3080F0?style=for-the-badge&logo=hackster&logoColor=white"/>
+  <a href="https://www.instructables.com/member/Next%20Builder%20DIY/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instructables-FDBA12?style=flat&logo=instructables&logoColor=black" alt="Instructables"/>
   </a>
-  <a href="https://hackaday.io/NextBuilder">
-    <img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=for-the-badge&logo=hackaday&logoColor=white"/>
+  <a href="https://hackster.io/NEXTBUILDER" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hackster.io-2C9AB7?style=flat&logo=hackster&logoColor=white" alt="Hackster.io"/>
   </a>
-  <a href="https://youtube.com/@next.builder?si=CYdRbQAZveyQLm3W">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <a href="https://hackaday.io/NextBuilder" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hackaday-1A1A1A?style=flat&logo=hackaday&logoColor=white" alt="Hackaday"/>
   </a>
-  <a href="https://instagram.com/next_builder">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <a href="https://instagram.com/next_builder" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://community.dfrobot.com/user-13435.html">
-    <img src="https://img.shields.io/badge/DFRobot-F26722?style=for-the-badge&logo=dfrobot&logoColor=white"/>
+  <a href="https://community.dfrobot.com/user-13435.html" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/DFRobot-FF6C00?style=flat&logo=dfrobot&logoColor=white" alt="DFRobot Community"/>
   </a>
 </p>
 
