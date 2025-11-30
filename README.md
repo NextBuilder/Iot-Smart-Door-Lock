@@ -33,30 +33,8 @@
 ### *ESP32-C6 + HuskyLens + Telegram Notifications*
 
 Have you ever wanted a home security system that feels smarter, faster, and more secure than traditional locks?
-This project makes that idea a reality.
-
-**This AI-powered Face Recognition Door Lock** combines:
-
-✔️ **On-device AI (HuskyLens)**
-✔️ **Instant unlocking for authorized faces**
-✔️ **Immediate Telegram alerts to your phone**
-✔️ **Silent rejection for unknown visitors**
-✔️ **Secure, elegant, and modern design**
-
-Built with the **DFRobot HuskyLens** at its core, the system delivers reliable, real-time facial recognition without heavy code or cloud dependency.
-The **ESP32-C6** manages communication, logic, notifications, and secure unlocking — all efficiently and at the edge.
-
-When an authorized person approaches:
-➡️ HuskyLens instantly recognizes them
-➡️ ESP32-C6 triggers the **12V Solenoid Lock**
-➡️ You receive a **Telegram message** confirming access
-
-When an unknown face is detected:
-❌ The lock stays engaged
-❌ No alerts are triggered locally
-✔️ A silent layer of security is maintained
-
-The result is a **professional-grade IoT security system** that blends edge AI + microcontrollers into a powerful and practical solution.
+This project makes that idea a reality. Built with the **DFRobot HuskyLens** at its core, the system delivers reliable, real-time facial recognition without heavy code or cloud dependency.
+The **ESP32-C6** manages communication, logic, notifications, and secure unlocking — all efficiently and at the edge. The result is a **professional-grade IoT security system** that blends edge AI + microcontrollers into a powerful and practical solution.
 
 ---
 
@@ -87,49 +65,6 @@ The result is a **professional-grade IoT security system** that blends edge AI +
 | **Wires, connectors, hardware** | Assembly                                             |
 
 ---
-
-# 🔧 Tools Used
-
-* Soldering Iron
-* Soldering Wire
-* T-7000 Glue
-* Screwdrivers
-* 3D Printer (for enclosure)
-* Fusion 360 (enclosure design)
-
----
-
-# 📁 Repository Structure
-
-```
-SMART-DOOR-LOCK/
-│
-├── /hardware/
-│   ├── schematic.pdf
-│   ├── pcb_design/
-│   └── wiring_diagram.png
-│
-├── /firmware/
-│   ├── esp32_c6_code.ino
-│   ├── huskylens_config/
-│   └── telegram_bot_setup/
-│
-├── /3d-print/
-│   ├── enclosure_body.stl
-│   ├── faceplate.stl
-│   └── mounting_bracket.stl
-│
-├── /images/
-│   ├── final_build.jpg
-│   ├── wiring.jpg
-│   └── design_render.png
-│
-├── LICENSE
-└── README.md
-```
-
----
-
 # 🛠 How It Works
 
 1. **HuskyLens scans for faces continuously**
